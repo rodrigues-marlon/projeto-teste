@@ -1,2 +1,2 @@
-inserir login
-inserir senha
+inserir login:
+inserir senha:
